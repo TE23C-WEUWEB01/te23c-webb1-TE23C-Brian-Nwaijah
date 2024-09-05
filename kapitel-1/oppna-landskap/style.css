@@ -1,0 +1,29 @@
+body {
+    background-image: url("./bilder/öpnna\ land.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin-left: 100px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 black;
+}
+
+p {
+    color: white;
+    font-style: italic;
+    background-color: #3cb1e35e;
+    width: 500px;
+    padding: 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+
+}
+
+img {
+    margin-left: 100px;
+    width: 100px;
+}
