@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kapitel-1", "kapitel-1", "{C6A5D7C4-2DBE-47D3-A42F-43832AECF1D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "veckomeny", "veckomeny", "{75F4EFBC-C78E-477A-BC0D-9A3FFEB318B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23C_Interaktiv", "kapitel-1\veckomeny\23C_Interaktiv\23C_Interaktiv.csproj", "{783B71A6-F2A9-46BD-A000-5D6F08514087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783B71A6-F2A9-46BD-A000-5D6F08514087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783B71A6-F2A9-46BD-A000-5D6F08514087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783B71A6-F2A9-46BD-A000-5D6F08514087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783B71A6-F2A9-46BD-A000-5D6F08514087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75F4EFBC-C78E-477A-BC0D-9A3FFEB318B4} = {C6A5D7C4-2DBE-47D3-A42F-43832AECF1D9}
+		{783B71A6-F2A9-46BD-A000-5D6F08514087} = {75F4EFBC-C78E-477A-BC0D-9A3FFEB318B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C406E22B-4652-4562-8C14-EAD4CE9ED203}
+	EndGlobalSection
+EndGlobal
