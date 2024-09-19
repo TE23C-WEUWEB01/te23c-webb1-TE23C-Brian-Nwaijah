@@ -1,0 +1,22 @@
+h1{
+    background-color: rgb(235, 197, 10);
+    
+margin-left: 450px;
+
+;
+}
+img{
+margin-left: 450px;
+}
+p{
+margin-left: 300px;
+}
+a{
+    margin-left: 600px;
+}
+body{
+    background-image: url(./bilder/ladda\ ned.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
