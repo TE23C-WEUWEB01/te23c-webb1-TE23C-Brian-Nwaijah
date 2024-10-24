@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Sidans bakgrund */
+body {
+    background-color: #484747;
+    /* background-image: url(./bilder/The\ moon\ något\ första.jpg); */
+
+}
+
+/* kontainern utseende */
+.kontainer {
+    width: 800px;
+    padding: 30px;
+    margin: auto;
+    font-family: "Space Mono", monospace;
+}
+h1 {
+    font-family: "Oxanium", sans-serif;
+    font-size: 120px;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/*Boxarnas utseende  */
+.bild {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+img {
+    width: 100%;   
+}
+h3 {}
+p {}
+a {}
