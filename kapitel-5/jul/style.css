@@ -12,7 +12,7 @@ body, h1, p, ul {
 
 /* Allmän design */
 body {
-    font-family: 'Snowburst One', cursive; /* Googla efter juliga fonter */
+    font-family: 'Snowburst One', cursive; 
     background-color: darkgreen;
     background-size: cover;
     color: rgb(208, 219, 5);
